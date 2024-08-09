@@ -5,20 +5,21 @@ body {
 }
 
 .header {
-    margin: 98px 24px 90px 24px;
-    min-width: 1052px;
+    margin-top: auto;
+    padding-top: 96px;
+    padding-bottom: 92px;
     display: flex;
     align-items: center;
     font-size: 18px;
     justify-content: space-between;
-    padding-right: 61px;
+    padding-right: 85px;
  
 }
 
 .header__logo {
     flex-grow: 1;
     text-align: center;
-    margin-right: 182px;
+    margin-right: 175px;
 }
 
 .header__logo_image {
@@ -27,7 +28,7 @@ body {
 }
 
 .header__links-list {
-    margin-left: 26px;
+    margin-left: 51px;
     display: flex;
     list-style: none;
     font-style: normal;
