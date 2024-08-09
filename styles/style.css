@@ -18,7 +18,7 @@ body {
 .header__logo {
     flex-grow: 1;
     text-align: center;
-    margin-right: 180px;
+    margin-right: 175px;
 }
 
 .header__logo_image {
