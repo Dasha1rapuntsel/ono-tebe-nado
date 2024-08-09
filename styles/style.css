@@ -275,7 +275,7 @@ body {
     display: flex;
     gap: 24px;
     flex-direction: column;
-}  
+}    
 
 .about__text-paragraph {
     font-size: 20px;
