@@ -5,20 +5,20 @@ body {
 }
 
 .header {
-    margin: 92px 24px 92px 24px;
+    margin: 98px 24px 90px 24px;
     min-width: 1052px;
     display: flex;
     align-items: center;
     font-size: 18px;
     justify-content: space-between;
-    padding-right: 65px;
-    padding-top: 6px;
+    padding-right: 61px;
+ 
 }
 
 .header__logo {
     flex-grow: 1;
     text-align: center;
-    margin-right: 175px;
+    margin-right: 182px;
 }
 
 .header__logo_image {
