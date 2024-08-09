@@ -5,14 +5,14 @@ body {
 }
 
 .header {
-    margin: 92px 24px 96px 24px;
+    margin: 92px 24px 92px 24px;
     width: 1052px;
     display: flex;
     align-items: center;
     font-size: 18px;
     justify-content: space-between;
-    padding-right: 59px;
-    padding-top: 2px;
+    padding-right: 65px;
+    padding-top: 6px;
 }
 
 .header__logo {
@@ -34,7 +34,7 @@ body {
 }
 
 .header__links-list-item {
-    margin-right: 34px;
+    margin-right: 33px;
     list-style: circle;
     list-style-position: outside;
 }
